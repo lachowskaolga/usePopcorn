@@ -6,10 +6,11 @@ Welcome to the **usePopcorn**, A React-based platform for movie enthusiasts to t
 
 ## Features
 
-- Split bills with friends.
-- Track individual expenses.
-- Send payment reminders via email.
-- Responsive and easy-to-use interface.
+Track Watched Movies: Users can easily log movies they've watched, keeping track of their viewing history.
+
+- Personalized Ratings: Rate films on a scale of 1 to 10 and organize movies based on your personal ratings.
+- Review Movies: Write and share reviews for each movie, helping other users make informed decisions.
+- Search & Filter: Find movies quickly using search and filtering options (genre, rating, etc.).
 
 ## Technologies Used
 
